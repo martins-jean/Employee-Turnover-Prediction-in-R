@@ -3,8 +3,6 @@ Data science project using a logistic regression model in R to predict employee 
 
 ## Contextual Overview
 
-Why is employee turnover important? <br>
-
 <p align="justify">Employee turnover, the rate at which employees leave and are replaced, holds significant importance for organizations. It directly impacts financial costs, productivity, and the retention of institutional knowledge and expertise. High turnover can erode morale, disrupt customer relationships, and challenge talent acquisition efforts, tarnishing an employer's reputation. Moreover, it can hinder strategic initiatives, introduce legal complexities, and impede diversity and inclusion goals. In essence, understanding and managing employee turnover is essential for maintaining a stable, productive, and successful organization.</p>
 
 ## Project Objectives
