@@ -16,4 +16,10 @@ Data science project using a logistic regression model in R to predict employee 
 
 # Technologies Used
 
-- R libraries: readr, dplyr, ggplot2, lubridate, Information and caret.
+- R libraries:
+  readr
+  dplyr
+  ggplot2
+  lubridate
+  Information
+  caret
