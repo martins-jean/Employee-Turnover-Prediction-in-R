@@ -14,7 +14,7 @@ Data science project using a logistic regression model in R to predict employee 
 5. Evaluate the accuracy of the model and categorize employees into specific risk buckets.
 6. Formulate an intervention strategy and estimate its return on investment (ROI).
 
-## Technologies used
+## Technologies
 
 - R libraries: <br>
   readr <br>
