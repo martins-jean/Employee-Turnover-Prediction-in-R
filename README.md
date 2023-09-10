@@ -3,7 +3,9 @@ Data science project using a logistic regression model in R to predict employee 
 
 ## Contextual Overview
 
-Retaining employees is important for organizational growth. The morale of the firm is usually affected by employee losses, and it costs more to hire new employees than it does to keep the ones you already have. The good news is that businesses can now use data-driven tactics to predict potential turnover and boost employee retention.
+Why is employee turnover important? <br>
+
+Employee turnover, the rate at which employees leave and are replaced, holds significant importance for organizations. It directly impacts financial costs, productivity, and the retention of institutional knowledge and expertise. High turnover can erode morale, disrupt customer relationships, and challenge talent acquisition efforts, tarnishing an employer's reputation. Moreover, it can hinder strategic initiatives, introduce legal complexities, and impede diversity and inclusion goals. In essence, understanding and managing employee turnover is essential for maintaining a stable, productive, and successful organization.
 
 ## Project Objectives
 
