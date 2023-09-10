@@ -13,3 +13,7 @@ Data science project using a logistic regression model in R to predict employee 
 4. Build a logistic regression model to predict turnover while accounting for multicollinearity among variables.
 5. Evaluate the accuracy of the model and categorize employees into specific risk buckets.
 6. Formulate an intervention strategy and estimate its return on investment (ROI).
+
+# Technologies Used
+
+- Libraries: readr, dplyr, ggplot2, lubridate, Information and caret.
