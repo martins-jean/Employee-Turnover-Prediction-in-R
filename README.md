@@ -19,7 +19,7 @@ This is the second of series of projects on workforce analytics. I first explore
 
 ## Reproducibility guidelines
 
-
+For notebook-based projects, please refer directly to the Google Colab notebook I uploaded to this repository.
 
 ## Technologies
 
