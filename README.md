@@ -17,6 +17,10 @@ This is the second of series of projects on workforce analytics. I first explore
 5. Evaluate the accuracy of the model and categorize employees into specific risk buckets.
 6. Formulate an intervention strategy and estimate its return on investment (ROI).
 
+## Reproducibility guidelines
+
+
+
 ## Technologies
 
 - R libraries: <br>
