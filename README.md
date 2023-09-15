@@ -3,10 +3,9 @@
 ## Contextual overview
 
 <p align="justify">
-This is the second of series of projects on workforce analytics. I first explored the issue of employee turnover in python using a decision tree classifier, this time I will use a different dataset, model and language to dive deeper into how employee turnover can be analyzed and predicted. <br> <br>
-
 Why should we care about employee turnover? <br>
-It represents a major burden for companies because it leads to direct costs in the form of hiring costs, training costs, productivity loss, opportunity costs for accounts left unmanaged as well as indirect costs such as the loss of institutional knowledge and the impact of employee morale. 
+It represents a major burden for companies because it leads to direct costs in the form of hiring costs, training costs, productivity loss, opportunity costs for accounts left unmanaged as well as indirect costs such as the loss of institutional knowledge and the impact of employee morale. <br>
+This is the second of series of projects on workforce analytics. I first explored the issue of employee turnover in python using a decision tree classifier, this time I will use a different dataset, model and language to dive deeper into how employee turnover can be analyzed and predicted.
 </p>
 
 ## Project objectives
