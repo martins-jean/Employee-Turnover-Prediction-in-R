@@ -1,5 +1,4 @@
 # Employee turnover prediction in R
-Data science project using a multiple logistic regression model in R to predict employee turnover.
 
 ## Contextual overview
 
